@@ -7,7 +7,9 @@ To add users to your directory, follow these steps:
 3. Under **Manage**, select **Users**.
 4. Select **New guest user**.
 
-   ![Shows where New guest user is in the UI](./media/add-users-administrator/NewGuestUser-Directory.png) 
+   ![Shows where New guest user is in the UI](
+        azure-docs/articles/active-directory/b2b/media/add-users-administrator/NewGuestUser-Directory.PNG
+      ) 
 
 
 ## Add guest users to the subcription
