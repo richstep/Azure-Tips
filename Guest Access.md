@@ -8,7 +8,7 @@ To add users to your directory, follow these steps:
 4. Select **New guest user**.
 
    ![Shows where New guest user is in the UI](
-        azure-docs/articles/active-directory/b2b/media/add-users-administrator/NewGuestUser-Directory.PNG
+        https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/active-directory/b2b/media/add-users-administrator/NewGuestUser-Directory.PNG
       ) 
 
 
