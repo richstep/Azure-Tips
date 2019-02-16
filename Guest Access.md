@@ -1,9 +1,9 @@
-#Directories vs Subscriptions
+# Directories vs Subscriptions
 Your Azure subscription has a trust relationship with Azure Active Directory (Azure AD), which means that the subscription trusts Azure AD to authenticate users, services, and devices. Multiple subscriptions can trust the same Azure AD directory, but each subscription can only trust a single directory.
 
 Before you can grant someone access to your Azure subscription, the user must first be added to your Azure AD.                  
 
-##Add guest users to the directory
+## Add guest users to the directory
 
 To add users to your directory, follow these steps:
 
